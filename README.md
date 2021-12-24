@@ -30,8 +30,8 @@ Sebelum menjalankan backend, pastikan terlebih dahulu pada VSCode sudah melakuka
 ## Cara Menjalankan Project ini
 
 1. Melakukan clone yang dapat dilanjutkan dengan membuka VSCode
-2. Jalankan pip install venv
-3. Jalankan venv di project dir
+2. Jalankan pip install virtualenv
+3. Jalankan command virtualenv dengan argumen "virtualenv venv" untuk membuat virtual environment
 4. Lalu masukkan code ini pada terminal
 ```
 .\venv\Scripts\activate
